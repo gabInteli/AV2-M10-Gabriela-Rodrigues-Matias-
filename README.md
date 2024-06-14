@@ -1,5 +1,5 @@
-# Gabriela Matias - Avaliação 2 - Módulo 10
-## Engenharia da Computação
+# Gabriela Matias
+## Avaliação 2 - Módulo 10: Engenharia da Computação
 
 ## Objetivo: 
 1. Adaptação de um servidor de flask para FastAPI responsavel pela criação e gerenciamento de posts em um blog
@@ -12,21 +12,31 @@
 Para instalar e executar este projeto, siga estes passos:
 
 1. Clone o repositório.
+2. Acesse: 
+```
+./gateway
+```
 
-## Usage
+3. Execute o comando: 
+```
+docker compose -f docker-compose.yaml build
+```
 
-To use this project, follow these steps:
+## Executando o Projeto: 
+1. Acesse a pasta: 
+```
+./gateway
+```
 
-1. Start the application.
-2. Access the provided endpoints.
-3. Test the API using Insomnia.
+2. Execute o comando: 
+```
+docker compose -f docker-compose.yaml up
+```
 
-## Contributing
+## Testes de Funcionamento do Servidor:
 
-Contributions are welcome! If you would like to contribute to this project, please follow these guidelines:
+Para validar o funcionamento do sistema, foi criada uma collections de teste com Insomnia que pode ser acessada e baixada na seguinte pasta: 
+- [Collections - Insmonia](https://github.com/gabInteli/AV2-M10-Gabriela-Rodrigues-Matias-/tree/main/Insomnia)
 
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
+Em seguida basta rodar o servidor e iniciar as APIs com os bodys ja definidos na collection. 
 
