@@ -40,3 +40,9 @@ Para validar o funcionamento do sistema, foi criada uma collections de teste com
 
 Em seguida basta rodar o servidor e iniciar as APIs com os bodys ja definidos na collection. 
 
+## Sistema de Logs
+Cada uma as rotas desenvolvida no servidor tem seu log correspondente com as ações, conforme a demonstração abaixo: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VrTpq0Y2Rnc?si=cBXtjHi3SDgl8NT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Log](log.png)

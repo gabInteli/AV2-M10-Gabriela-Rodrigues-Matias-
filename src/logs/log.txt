@@ -7,3 +7,16 @@
 2024-06-14 10:13:45,194 - logs - WARNING - Post created
 2024-06-14 10:13:48,045 - logs - WARNING - Getting all posts
 2024-06-14 10:13:51,344 - logs - WARNING - Post updated
+2024-06-14 10:48:06,552 - logs - WARNING - Post created
+2024-06-14 10:48:14,975 - logs - WARNING - Post created
+2024-06-14 10:48:23,160 - logs - WARNING - Getting all posts
+2024-06-14 10:48:26,964 - logs - WARNING - Post updated
+2024-06-14 10:48:27,214 - logs - WARNING - Post updated
+2024-06-14 10:48:33,283 - logs - WARNING - Getting all posts
+2024-06-14 10:50:08,325 - logs - WARNING - Post created
+2024-06-14 10:50:18,430 - logs - WARNING - Post created
+2024-06-14 10:50:26,222 - logs - WARNING - Post created
+2024-06-14 10:50:36,608 - logs - WARNING - Post created
+2024-06-14 10:50:39,672 - logs - WARNING - Getting all posts
+2024-06-14 10:50:44,574 - logs - WARNING - Post updated
+2024-06-14 10:50:51,110 - logs - WARNING - Getting all posts
