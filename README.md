@@ -39,4 +39,3 @@ Para validar o funcionamento do sistema, foi criada uma collections de teste com
 - [Collections - Insmonia](https://github.com/gabInteli/AV2-M10-Gabriela-Rodrigues-Matias-/tree/main/Insomnia)
 
 Em seguida basta rodar o servidor e iniciar as APIs com os bodys ja definidos na collection. 
-
