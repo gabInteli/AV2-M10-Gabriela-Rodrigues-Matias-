@@ -1,0 +1,9 @@
+2024-06-14 10:12:10,417 - logs - WARNING - Post created
+2024-06-14 10:12:20,815 - logs - WARNING - Post created
+2024-06-14 10:12:24,465 - logs - WARNING - Getting all posts
+2024-06-14 10:12:27,450 - logs - WARNING - Post updated
+2024-06-14 10:13:26,395 - logs - WARNING - Post created
+2024-06-14 10:13:35,912 - logs - WARNING - Post created
+2024-06-14 10:13:45,194 - logs - WARNING - Post created
+2024-06-14 10:13:48,045 - logs - WARNING - Getting all posts
+2024-06-14 10:13:51,344 - logs - WARNING - Post updated

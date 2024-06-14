@@ -1,0 +1,19 @@
+#pode me dar um docker-compose.yaml que eu possa usar para rodar o projeto de um server com fastapi
+
+version: '3.8'
+
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+      - PYTHONDONTWRITEBYTECODE=1
+      - FASTAPI_ENV=development
+      - FASTAPI_APP=app.main:app
+    command: uvicorn app.main:app --reload --host
